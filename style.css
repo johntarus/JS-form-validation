@@ -1,0 +1,27 @@
+body, html{
+    background: #fff;
+    font-family: 'Lato' sans-serif;
+    height: 100vh;
+}
+
+.col-md-6{
+    padding: 20px;
+    margin-top: 100px;
+    border-radius: 10px !important;
+}
+button{
+    margin-top: 20px !important;
+    float: left;
+}
+input{
+    margin-top: 20px;
+}
+.success{
+    border: 3px solid green !important;
+}
+.error{
+    border: 3px solid red !important;
+}
+small{
+    color: red;
+}
